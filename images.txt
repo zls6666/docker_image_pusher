@@ -1,1 +1,2 @@
 vulhub/thinkphp:2.1
+vulhub/shiro:1.0.0
