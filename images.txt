@@ -1,3 +1,4 @@
 vulhub/thinkphp:2.1
 vulhub/shiro:1.0.0
 vulhub/shiro:1.2.4
+vulhub/struts2:2.5.25
